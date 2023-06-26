@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/tailwind-playlist">Tailwind Boiler Plate</a></h3>
+  <h3 align="center"><a href="https://github.com/NikhilSarker/TailwindBoilerplate.git">Tailwind Boiler Plate</a></h3>
 </p>
 
 
